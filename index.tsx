@@ -1,10 +1,3 @@
-/*
- * @Author: zenglingfang
- * @Date: 2021-02-25 16:18:29
- * @LastEditors: zenglingfang
- * @LastEditTime: 2021-03-01 19:21:41
- * @Description: 
- */
 import React, { useState, useEffect, useMemo } from 'react';
 import './style.scss';
 const info =[{"title":"同城零售-ToB产品运营（猫超市卡）-用户运营部","city":"杭州-1","time":"9分钟前"},
